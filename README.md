@@ -31,3 +31,12 @@ The table below describes about food items and its cost.
 | Chicken Wings        | Pizzahut      | $13.26        |
 | Mexican Tacos        | Taco Bell     | $07.45        |
 | Blackcurren icecream | Krish&Kate    | $3.99         |
+
+***
+
+#Pithy Quotes
+> The greatest glory in living lies not in never falling, but in rising every time we fall. *-Nelson Mandela*
+
+> he way to get started is to quit talking and begin doing. *-Walt Disney*
+
+***
