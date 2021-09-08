@@ -2,3 +2,11 @@
 # Venkata Prabhakar
 ###### Paris. Eiffel Tower at night 
 __Paris. Eiffel Tower__ Paris is yet untouched by the skyscrapers that dominate the __skylines of London__ and New York, so take advantage of the beautiful Eiffel Tower views you can catch from almost anywhere in the city.
+
+
+***
+###### DIRECTIONS FROM MARYVILLE TO MY FAVOURITE PLACE
+1.Distance from maryville to paris is 4478 mi.
+2.Total journey time on average 14hours.
+3.Take a flight from kansas to dallas.
+4.Connect flight to dallas to paris.
