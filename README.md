@@ -22,3 +22,12 @@ __Paris. Eiffel Tower__ Paris is yet untouched by the skyscrapers that dominate 
 ![Description_AboutMe](https://github.com/VenkataPrabhakar/assignment2-Takkellapati/blob/337a2c090326d8fc8d314f8116394adb78a82ed1/AboutMe.md)
 
 ***
+
+The table below describes about food items and its cost.
+
+| food/drinkl          | Location      |  Amount       |
+| :---                 |    :----:     |          ---: |
+| Pizza                | Pizzahut      | $14.56        |
+| Chicken Wings        | Pizzahut      | $13.26        |
+| Mexican Tacos        | Taco Bell     | $07.45        |
+| Blackcurren icecream | Krish&Kate    | $3.99         |
